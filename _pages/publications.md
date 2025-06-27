@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications2/
+permalink: /publications/
 author_profile: true
 redirect_from:
-  - /publications2
+  - /publications
 ---
 
 Publications
@@ -13,7 +13,7 @@ Publications
 <section class="content">
 
 <p>
-  <strong>You Lu</strong>, Wenzhuo Song, Chidubem Arachie, and Bert Huang. <a href="https://arxiv.org/abs/2302.09649">Weakly supervised label learning flows</a>. Neural Networks, 2025. 
+  <strong>You Lu</strong>, Wenzhuo Song, Chidubem Arachie, and Bert Huang. <a href="https://arxiv.org/abs/2302.09649">Weakly supervised label learning flows</a>. Neural Networks, 2025. <a href="https://github.com/yolu1055/weakly-supervised-label-learning-flow" >[code]</a>
 </p>
 
 <p>

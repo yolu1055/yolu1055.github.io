@@ -22,7 +22,7 @@ repository               : "yolu1055/yolu1055.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "youlu4.jpg"
+  avatar           : "youlu.jpg"
   name             : "You Lu"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist"
