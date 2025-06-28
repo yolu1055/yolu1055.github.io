@@ -11,7 +11,7 @@ Work Experience
 ======
 
 <ul style="font-size:18px">
-  <li style="margin-bottom: 0px"> Research Scientist, Motional, 2021.02 - Present </li>
+  <li style="margin-bottom: 0px"> Research Scientist, Motional, 2022.02 - Present </li>
   <li style="margin-bottom: 0px"> Research Intern, NEC Labs America, 2020.05 - 2020.08</li>
 </ul>
 
