@@ -17,7 +17,7 @@ Publications
 </p>
 
 <p>
-  <strong>You Lu</strong>, Yue Tian, Shaobo Han, Eric Cosatto, Sarper Ozharar, and Yangmin Dingand. <a href="https://ieeexplore.ieee.org/abstract/document/9415049">Automatic Fine-Grained Localization of Utility Pole Landmarks on Distributed Acoustic Sensing Traces Based on Bilinear Resnets</a>. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. 
+  <strong>You Lu</strong>, Yue Tian, Shaobo Han, Eric Cosatto, Sarper Ozharar, and Yangmin Ding. <a href="https://ieeexplore.ieee.org/abstract/document/9415049">Automatic Fine-Grained Localization of Utility Pole Landmarks on Distributed Acoustic Sensing Traces Based on Bilinear Resnets</a>. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. 
 </p>
   
 <p>
