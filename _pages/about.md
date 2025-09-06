@@ -10,7 +10,7 @@ redirect_from:
 About Me
 =====
 
-Hello! I am a Research Scientist at <a href="https://motional.com/"> Motional</a>, and my work focuses on developing L4 autonomous driving systems. I completed my Ph.D. in Computer Science from Virginia Tech, where I was a member of the <a href="https://sanghani.cs.vt.edu/"> Sanghani Center for Artificial Intelligence and Data Analytics </a> and advised by Professor <a href="http://berthuang.com/">Bert Huang</a>. Before that, I obtained my M.S. from the University of Colorado Boulder, advised by Professor <a href="http://users.umiacs.umd.edu/~jbg/">Jordan Boyd-Graber</a>. I received both my B.S. and M.S. from Jilin University, China, under the guidance of Professor Jihong Ouyang.
+Hello! I am an associate professor at the <a href="https://www.suat-sz.edu.cn/yjy/rgznyjy.htm"> Artificial Intelligence Research Institute of Shenzhen University of Advanced Technology</a>. Previously, I was a Research Scientist at <a href="https://motional.com/"> Motional</a>, and worked on developing L4 autonomous driving systems. I completed my Ph.D. in Computer Science from Virginia Tech, where I was a member of the <a href="https://sanghani.cs.vt.edu/"> Sanghani Center for Artificial Intelligence and Data Analytics </a> and advised by Professor <a href="http://berthuang.com/">Bert Huang</a>. Before that, I obtained my M.S. from the University of Colorado Boulder, advised by Professor <a href="http://users.umiacs.umd.edu/~jbg/">Jordan Boyd-Graber</a>. I received both my B.S. and M.S. from Jilin University, China, under the guidance of Professor Jihong Ouyang.
 
 
 <p style="font-weight: bold; margin-bottom: -15px; font-size:18px"> 

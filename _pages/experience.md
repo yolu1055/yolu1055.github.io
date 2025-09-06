@@ -11,7 +11,8 @@ Work Experience
 ======
 
 <ul style="font-size:18px">
-  <li style="margin-bottom: 0px"> Research Scientist, Motional, 2022.02 - Present </li>
+  <li style="margin-bottom: 0px"> Associate Professor, Shenzhen University of Advanced Technology, 2025.08 - Present </li>
+  <li style="margin-bottom: 0px"> Research Scientist, Motional, 2022.02 - 2025.07 </li>
   <li style="margin-bottom: 0px"> Research Intern, NEC Labs America, 2020.05 - 2020.08</li>
 </ul>
 
